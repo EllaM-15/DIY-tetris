@@ -22,7 +22,8 @@ This project is a simple implementation of the classic Tetris game using JavaScr
 ## File Structure
 - `index.html`: HTML file containing the structure of the game interface.
 - `style.css`: CSS file containing the styles for the game interface.
-- `script.js`: JavaScript file containing the game logic and interaction.
+- `tetris.js`: JavaScript file containing the game logic and interaction.
+- `tetrominoes.js`: JavaScript file containing the tetromino shapes and colors.
 
 ## Credits
 This project was created by Elena Moiceanu.

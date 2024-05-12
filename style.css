@@ -1,0 +1,36 @@
+ h1 {
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+h4 {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    font-family: "Space Mono", monospace;
+    justify-content: center;
+    background-color: beige; 
+    color: black;
+}
+
+canvas#tetris {
+    border: 1px solid black; 
+}
+
+div {
+    text-align: center;
+}
+
+.score-container {
+    background-color: #0B1215;
+    color: white;
+    width: 300px;
+    align-items: center;
+    margin: 20 auto;
+}
+
